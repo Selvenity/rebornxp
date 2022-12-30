@@ -1,6 +1,6 @@
 var xp = {
   post: true,
-  version: "2.0-beta",
+  version: "1.0-alpha",
   openFileHandler: (path) => {},
   applications: {
     apps: {},
