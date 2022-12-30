@@ -1,7 +1,7 @@
 var win = new Window({
     width: 594,
     height: 434,
-    title: 'Welcome to RebornXP',
+    title: 'Welcome to ModoniumXP Alpha',
     canClose: false,
     canResize: false,
     canMinimize: false,
