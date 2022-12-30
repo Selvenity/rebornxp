@@ -25,3 +25,39 @@ You are free to open issues and send pull requests. You can donate me & support 
 
 # Disclaimer
 The Windows XP name, artwork, trademark are surely property of Microsoft. This project is provided for educational purposes only. It is not affiliated with and has not been approved by Microsoft.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Welcome to Moderium XP Alpha!
+Moderium XP is a project to put Windows XP in the age of 2022!
+
+# Planned ideas:
+1. Moderium XP Plus
+
+# Moderium XP Plus
+Moderium XP Plus is a project to make Microsoft Plus for Moderium XP.
+This will release whenever possible.
